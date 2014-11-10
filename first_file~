@@ -1,8 +1,10 @@
 Here are some changes. I'm planning to push these to the repo. I just improved this line with a new feature.
 
-This will be considered production.
+This will be considered production. programmer one added some stuff here too that he's going to rebase.
 
 So here are some changes that programmer two is going to introduce. He's going to be happy with these and push them to production. I'm also going to change something above too.
 
 Here si some changes on master branch. I'm goign to rebase dev over this.
 Here are some new features that we are going to test in dev. Other developers will be constributing to this.
+
+Here are some changes that programmer one did. I'm going to rebase these while programmer 2 has based some commits off the original.
